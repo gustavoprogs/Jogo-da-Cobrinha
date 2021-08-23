@@ -2,4 +2,4 @@
 
 * Desenvolvido com JavaScript
 
-![Game Printscreen](screenshots/game.png)
+  ![Game Printscreen](gif/cobrinha.gif)
